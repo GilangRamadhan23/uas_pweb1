@@ -159,7 +159,7 @@ Di Kota Tegal, setiap hidangan adalah narasi rasa, sebuah perjalanan dimana laut
         </div>
       </div>
       <div class="share">
-        <a href="https://www.instagram.com/gll.stoneheart?igsh=NnlrZ2x5c2g0cnQ3" class="fab fa-istagram"></a>
+        <a href="https://api.whatsapp.com/send?phone=6281998958435&text=Saya%20Ingin%20Memesan%20Ramen%20&%20Sushinya%20Kak" class="fab fa-whatsapps"></a>
         <a href="#" class="fab fa-instagram"></a>
       </div>
       <div class="credit">
